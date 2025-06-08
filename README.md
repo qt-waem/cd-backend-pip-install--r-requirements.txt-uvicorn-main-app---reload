@@ -1,7 +1,7 @@
 <hr>
 
 <h2>🔍 تحليل الشارت باستخدام الذكاء الاصطناعي</h2>
-
+صوره تحلايل اصوار ورسله انتيجه با دقيقه او 5دقاق 
 <form id="upload-form">
   <input type="file" id="image-input" accept="image/*" required />
   <button type="submit">رفع وتحليل الصورة</button>
